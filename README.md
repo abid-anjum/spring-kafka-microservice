@@ -1,7 +1,6 @@
 # spring-kafka-microservice
 This is a repository for building a Spring Boot microservice using NetflixOSS and Apache Kafka. 
 
-Read the complete blog here - https://crunchytechbytz.wordpress.com/2018/02/09/microservice-with-apache-kafka-netflix-oss/
 
 #### Prerequisite
 - Java 1.8
