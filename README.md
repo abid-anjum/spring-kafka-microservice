@@ -45,8 +45,4 @@ Once each micro service is setup and started correctly, you can test the complet
 4. Verify that registration success email was received at your email address
 
 #### Deploying micro service in docker container
-The same microservice can also be  deployed in docker containers and I have published a blog on same here -
-https://crunchytechbytz.wordpress.com/2018/02/25/deploy-a-spring-boot-microservice-with-netflix-oss-stack-in-docker-container/
-
-Simialry, if someone needs to refer to any help on installing Apache Kafka in docker container then they can refer here -
-https://crunchytechbytz.wordpress.com/2018/01/28/install-apache-kafka-in-docker-container/
+The same microservice can also be  deployed in docker containers.
